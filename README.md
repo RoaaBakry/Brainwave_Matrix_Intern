@@ -1,15 +1,10 @@
 Task 1
-
-## 🧾 Extended Description
-
 This project delivers a structured analysis of transactional sales data collected from multiple coffee shop branches. It focuses on uncovering patterns in customer purchases and product performance across different geographic locations.
 The dataset was queried from Google BigQuery using a custom SQL command to retrieve essential fields:
-
 - `store_location`
 - `transaction_qty`
 - `product_category`
 - `product_type`
-
 This ensured a lean and relevant dataset, optimized for analysis.
 The analysis was conducted using Microsoft Excel, where data cleaning and summarization were performed through a pivot table. This allowed for a comparative view of how different products perform in each store location.
  Objectives
